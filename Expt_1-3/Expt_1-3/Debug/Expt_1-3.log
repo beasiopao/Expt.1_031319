@@ -1,0 +1,14 @@
+﻿Build started 3/13/2019 3:58:34 PM.
+     1>Project "E:\Experiment1\Expt_1-3\Expt_1-3\Expt_1-3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Expt_1-3.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Expt_1-3.cpp"
+         Expt_1-3.cpp
+     1>e:\experiment1\expt_1-3\expt_1-3\expt_1-3.cpp(21): error C2146: syntax error : missing ')' before identifier '–'
+     1>e:\experiment1\expt_1-3\expt_1-3\expt_1-3.cpp(21): error C2059: syntax error : ')'
+     1>Done Building Project "E:\Experiment1\Expt_1-3\Expt_1-3\Expt_1-3.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.50
