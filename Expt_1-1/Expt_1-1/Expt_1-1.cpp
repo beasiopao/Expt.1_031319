@@ -1,12 +1,14 @@
 
 #include <iostream>
 #include <conio.h>
+#include <iomanip>
 using namespace std;
 
 int main()
 {
 	double BoxP, SidelineP, PremiumP, GaP, box, sideline, premium, Ga, TotalBox, TotalSideline, TotalPremium,
 		TotalGeneralAdmission;
+	cout << fixed << setprecision(2);
 
 	//Prices and Tickets
 	cout << "Enter Box ticket price: ";

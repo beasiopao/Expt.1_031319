@@ -1,4 +1,4 @@
-﻿Build started 3/13/2019 3:17:46 PM.
+﻿Build started 3/13/2019 3:44:41 PM.
      1>Project "E:\Experiment1\Expt_1-1\Expt_1-1\Expt_1-1.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\Expt_1-1.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -18,4 +18,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:05.46
+Time Elapsed 00:00:06.71
